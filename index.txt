@@ -1,0 +1,100 @@
+frodo:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+gandalf:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+anillo:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+sam:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+hobbits:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+rey:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+pippin:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+minas:{'./Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+aragorn:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+merry:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+batalla:{'./Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+orcos:{'./Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+sauron:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+allí:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+saruman:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+bosque:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+nazgûl:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+tirith:{'./Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+mago:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+llegar:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+gollum:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro6.txt'}
+rohan:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+bilbo:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+camino:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+gondor:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+théoden:{'./Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+rivendel:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+brujo:{'./Libros/libro4.txt', './Libros/libro5.txt'}
+ciudad:{'./Libros/libro2.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+comunidad:{'./Libros/libro2.txt'}
+viaje:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+días:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+mordor:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro5.txt'}
+denethor:{'./Libros/libro5.txt'}
+boromir:{'./Libros/libro2.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+isengard:{'./Libros/libro2.txt', './Libros/libro3.txt'}
+amo:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+puerta:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+elrond:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+faramir:{'./Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+ayuda:{'./Libros/libro1.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+comarca:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+encuentran:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+parten:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+hobbit:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro3.txt'}
+ejército:{'./Libros/libro5.txt', './Libros/libro3.txt'}
+río:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro5.txt'}
+ungol:{'./Libros/libro4.txt', './Libros/libro6.txt'}
+llegan:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+comienza:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+busca:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+muerte:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+llamado:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+deciden:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+gimli:{'./Libros/libro2.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+rohirrim:{'./Libros/libro5.txt', './Libros/libro3.txt'}
+cirith:{'./Libros/libro4.txt', './Libros/libro6.txt'}
+orodruin:{'./Libros/libro2.txt', './Libros/libro6.txt'}
+criatura:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro6.txt'}
+lucha:{'./Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+negra:{'./Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+éomer:{'./Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+senescal:{'./Libros/libro6.txt', './Libros/libro5.txt'}
+orthanc:{'./Libros/libro6.txt', './Libros/libro3.txt'}
+escapar:{'./Libros/libro1.txt', './Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+tarde:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+oeste:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+galadriel:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+elfos:{'./Libros/libro2.txt', './Libros/libro6.txt'}
+moria:{'./Libros/libro4.txt', './Libros/libro2.txt'}
+acaba:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt'}
+tropas:{'./Libros/libro4.txt', './Libros/libro5.txt'}
+objeto:{'./Libros/libro4.txt', './Libros/libro3.txt'}
+araña:{'./Libros/libro4.txt'}
+gracias:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro5.txt'}
+misión:{'./Libros/libro4.txt', './Libros/libro5.txt'}
+legolas:{'./Libros/libro2.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+día:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+casa:{'./Libros/libro1.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+ataque:{'./Libros/libro5.txt', './Libros/libro3.txt'}
+llegaron:{'./Libros/libro2.txt', './Libros/libro5.txt'}
+cazadores:{'./Libros/libro3.txt'}
+logran:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+huir:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+marcha:{'./Libros/libro4.txt', './Libros/libro6.txt'}
+destino:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+cuerpo:{'./Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+sendero:{'./Libros/libro6.txt', './Libros/libro5.txt'}
+atacados:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+deja:{'./Libros/libro4.txt', './Libros/libro6.txt'}
+éowyn:{'./Libros/libro6.txt', './Libros/libro5.txt'}
+edoras:{'./Libros/libro6.txt', './Libros/libro5.txt', './Libros/libro3.txt'}
+compañía:{'./Libros/libro4.txt', './Libros/libro6.txt', './Libros/libro5.txt'}
+caminos:{'./Libros/libro1.txt', './Libros/libro4.txt', './Libros/libro6.txt'}
+paso:{'./Libros/libro4.txt', './Libros/libro2.txt', './Libros/libro6.txt'}
+bárbol:{'./Libros/libro6.txt', './Libros/libro3.txt'}
+libro:{'./Libros/libro2.txt', './Libros/libro6.txt', './Libros/libro3.txt'}
+viejo:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+tom:{'./Libros/libro1.txt', './Libros/libro6.txt'}
+bombadil:{'./Libros/libro1.txt', './Libros/libro6.txt'}
